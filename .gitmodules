@@ -1,3 +1,0 @@
-[submodule "thirdparty/libcm3"]
-	path = thirdparty/libcm3
-	url = https://github.com/libopencm3/libopencm3

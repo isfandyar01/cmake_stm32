@@ -1,0 +1,1 @@
+project(CMAKE_STM)
